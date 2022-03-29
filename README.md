@@ -7,3 +7,4 @@ This repository contains the lab exercises on Computer Vision techniques, for th
 - Lab1-Week2 consists of exercises on kNN and softmax classifiers
 - Lab2-Week5 consists of exercises on Tensorflow for deep learning
 - Lab2-Week6 consists of exercises on Convolutional Networks, Dropouts, and Fully Convolutional networks
+- Lab3-Week9 consists of exercises on using RNN and LSTM to classify MNIST digits
